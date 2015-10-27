@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Study</string>
+
+    <string name="sticky_item">Sticky</string>
+    <string name="quick_return_item">Quick Return</string>
+    <string name="action_settings">action_settings</string>
+</resources>
+

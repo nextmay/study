@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "ProgramList_arrays">
+        <item>자바 프로그래밍 전문과정</item>
+        <item>웹 프로그래밍 전문과정</item>
+        <item>IoT 기반 융합 실무과정</item>
+        <item>Android 프로젝트과정정</item>
+    </string-array>
+
+
+</resources>
